@@ -1,6 +1,0 @@
-torch
-torchvision
-torchaudio
-gymnasium[classic-control]
-numpy
-matplotlib
