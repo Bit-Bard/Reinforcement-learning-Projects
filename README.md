@@ -45,8 +45,8 @@ Think of teaching a dog tricks:
 
 ### 🎪 Imagine This Scenario
 You're balancing a broomstick on your palm. It starts tilting left — you move your hand left to catch it. Too far? Now move right! That's exactly what our AI learns to do.
+![CartPole](RL%20Game%20CartPole_1/Screenshot%202026-01-16%20190614.png)
 
-![CartPole]()
 
 ###  Game Mechanics
 
